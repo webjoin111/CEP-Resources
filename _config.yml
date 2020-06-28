@@ -1,0 +1,8 @@
+title: Adobe CEP Resources
+description: Getting Started with Adobe CEP
+google_analytics: UA-33862654-2
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
